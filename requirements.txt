@@ -1,4 +1,4 @@
-Django==5.2.9
+Django==5.2.16
 gunicorn==23.0.0
 pillow==12.3.0
 pillow_heif==0.21.0
